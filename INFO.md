@@ -1,3 +1,1 @@
-new text
-experiment with amend
-amend commit
+git is awesome!
